@@ -2,11 +2,14 @@
 
 * [OSR Heresy Homepage](README.md)
 
-## Basics
+## House Rules
 
-* [Untitled](basics/untitled.md)
+* [Untitled](house-rules/untitled/README.md)
+  * [Untitled](house-rules/untitled/untitled.md)
 
-## Players Characters
+## Essays
 
-* [Untitled](players-characters/untitled.md)
+* [Untitled](essays/untitled.md)
+
+## Unsorted
 
