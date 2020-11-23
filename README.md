@@ -4,7 +4,9 @@ description: A collection of homebrews and house rules
 
 # OSR Heresy Homepage
 
-This site only a way to collect a translation of my own creations and make them available as shareable links for people asking about them on reddit, forums or other sources.
+This site is only a way to collect a translation of my own creations and make them available as shareable links for people asking about them on reddit, forums or other sources.
+
+Consider this website a permanent work-in-progress I will probably fill it as needed to support my activities in various online groups.
 
 {% hint style="warning" %}
 ### Disclaimer
