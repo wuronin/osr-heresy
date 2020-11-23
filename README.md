@@ -6,8 +6,6 @@ description: A collection of homebrews and house rules
 
 This site only a way to collect a translation of my own creations and make them available as shareable links for people asking about them on reddit, forums or other sources.
 
-Every new hou
-
 {% hint style="warning" %}
 ### Disclaimer
 

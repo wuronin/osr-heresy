@@ -2,14 +2,14 @@
 
 * [OSR Heresy Homepage](README.md)
 
-## House Rules
+## Homebrews <a id="house-rules"></a>
 
-* [Untitled](house-rules/untitled/README.md)
+* [Homebrew Index](house-rules/untitled/README.md)
   * [Untitled](house-rules/untitled/untitled.md)
 
 ## Essays
 
-* [Untitled](essays/untitled.md)
+* [Essays Index](essays/untitled.md)
 
 ## Unsorted
 
