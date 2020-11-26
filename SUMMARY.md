@@ -8,11 +8,11 @@
 
 ## House Rules
 
-* [House rules Index](house-rules/house-rules-index.md)
+* [House rules](house-rules/house-rules-index.md)
 
 ## Homebrews
 
-* [Homebrew Index](homebrews/untitled.md)
+* [Homebrew](homebrews/untitled.md)
 
 ## Appendices
 
@@ -20,7 +20,7 @@
 
 ## Essays and Rants <a id="essays"></a>
 
-* [Essays Index](essays/untitled/README.md)
+* [Essays](essays/untitled/README.md)
   * [The 2d6 Oracle](essays/untitled/the-2d6-oracle.md)
 
 ## Appendices <a id="appendices-1"></a>

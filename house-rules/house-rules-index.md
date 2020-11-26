@@ -2,7 +2,7 @@
 description: Individual modifications to the source material are stored here.
 ---
 
-# House rules Index
+# House rules
 
 Each house rule is self contained in its own page within the "and given a star rating to showcase how far it goes from the source materials. 
 
