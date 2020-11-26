@@ -2,10 +2,14 @@
 
 * [OSR Heresy Homepage](README.md)
 
+## Core Assumptions
+
+* [Core Concepts](core-assumptions/core-concepts.md)
+* [\* The Cleric is not fine](core-assumptions/core-cleric.md)
+
 ## House Rules <a id="house-rules-1"></a>
 
-* [House rules Index](house-rules-1/house-rules-index/README.md)
-  * [\* 2d6 - Initiative](house-rules-1/house-rules-index/2d6-reaction-roll-initiative.md)
+* [House rules Index](house-rules-1/house-rules-index.md)
 
 ## Homebrews <a id="house-rules"></a>
 
@@ -22,7 +26,7 @@
 
 ## Unsorted
 
----
-
-* [Unsorted Index](unsorted-index.md)
+* [Restricted Level Range](unsorted/core-level-range.md)
+* [Unsorted Index](unsorted/unsorted-index.md)
+* [\* The Thief is not fine](unsorted/the-thief-is-not-fine.md)
 

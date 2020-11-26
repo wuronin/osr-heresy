@@ -10,19 +10,16 @@ Consider this website a permanent work-in-progress I will probably fill it as ne
 
 ### The Site Structure and the Star System
 
-Each house rule is self contained in its own page within the "and given a star rating to showcase how far it goes from the source materials. 
+Contents are grouped in different Categories:
 
-1 Star is added if:
+* **Core Assumptions:** "Always On" variants or concepts, if you are not using them you will have to do some work to adapt my contents. 
+* **House Rules:** Self contained variants.
+* **Homebrews:** Bundles of variants or more complex alteration that requires or references one or more house rules to create a specific game experience or highlights some tones or "feeling".
+* **Appendices:** External links or references to give credits when due.
+* **Essays and Rants:** Random personal thoughts or opinions. Most of them will be created to explain the logic or motivation behind some change without polluting the variant page \(and boring casual readers\).
+* **Unsorted:** Uncategorized contents will be stored here until I can find a proper location for them, everything under this category should be seen as a draft or a work in progress.&gt;:
 
-* The house rule is lengthy or more complex than usual
-* Reference some other house rule
-* Alters some core assumption in the source material
-* Breaks the compatibility with the source material
-* Kills 1 or more sacred cows for the OSR community. 
-
-Each homebrew is a self contained in its own page and will merge a group of house rules to create some kind of gaming experience some house rules will be further modified to offer an organic feeling and remove conflicts or clashes between them. 
-
-{% hint style="warning" %}
+{% hint style="danger" %}
 ### Disclaimer
 
 The rules are wrote using "Classic D&D" \(Rules Cyclopedia and BECMI\) as the reference source material, they be mostly compatible with B/X or the recent OSE but I will not do any effort to keep them totally in line with the current "trends" or "standards".

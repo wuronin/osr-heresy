@@ -16,5 +16,7 @@ Each house rule is self contained in its own page within the "and given a star r
 
 Over time house rules will be tagged with their own topic to make searching them easier. 
 
-A List of these tags will be kept updated and shown here.
+
+
+
 
