@@ -6,13 +6,13 @@
 
 * [Core Concepts](core-assumptions/core-concepts.md)
 
-## House Rules <a id="house-rules-1"></a>
+## House Rules
 
-* [House rules Index](house-rules-1/house-rules-index.md)
+* [House rules Index](house-rules/house-rules-index.md)
 
-## Homebrews <a id="house-rules"></a>
+## Homebrews
 
-* [Homebrew Index](house-rules/untitled.md)
+* [Homebrew Index](homebrews/untitled.md)
 
 ## Appendices
 
@@ -23,12 +23,12 @@
 * [Essays Index](essays/untitled/README.md)
   * [The 2d6 Oracle](essays/untitled/the-2d6-oracle.md)
 
-## Unsorted
+## Appendices <a id="appendices-1"></a>
 
-* [Restricted Level Range](unsorted/core-level-range.md)
-* [Unsorted Index](unsorted/unsorted-index.md)
-* [\* The Cleric is not fine](unsorted/core-cleric.md)
-* [\* The Thief is not fine](unsorted/the-thief-is-not-fine.md)
+* [Restricted Level Range](appendices-1/core-level-range.md)
+* [Unsorted Index](appendices-1/unsorted-index.md)
+* [\* The Cleric is not fine](appendices-1/core-cleric.md)
+* [\* The Thief is not fine](appendices-1/the-thief-is-not-fine.md)
 
 ---
 
