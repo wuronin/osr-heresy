@@ -1,5 +1,5 @@
 ---
-description: '#2d6'
+description: '#2d6 #Sub-systems #Reaction-Rolls'
 ---
 
 # The 2d6 Oracle
