@@ -5,7 +5,7 @@
 ## House Rules <a id="house-rules-1"></a>
 
 * [House rules Index](house-rules-1/house-rules-index/README.md)
-  * [2d6 - Reaction roll Initiative](house-rules-1/house-rules-index/2d6-reaction-roll-initiative.md)
+  * [\* 2d6 - Initiative](house-rules-1/house-rules-index/2d6-reaction-roll-initiative.md)
 
 ## Homebrews <a id="house-rules"></a>
 

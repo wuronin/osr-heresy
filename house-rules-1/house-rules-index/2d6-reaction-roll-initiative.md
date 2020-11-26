@@ -1,14 +1,10 @@
 ---
-description: 'Tags: #2d6'
+description: 'Tags: #2d6 #reactions'
 ---
 
-# 2d6 - Reaction roll Initiative
+# \* 2d6 - Initiative
 
-
-
-## bullshit
-
-\#2d6
+The default
 
 
 
