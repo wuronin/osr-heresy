@@ -5,7 +5,6 @@
 ## Core Assumptions
 
 * [Core Concepts](core-assumptions/core-concepts.md)
-* [\* The Cleric is not fine](core-assumptions/core-cleric.md)
 
 ## House Rules <a id="house-rules-1"></a>
 
@@ -28,5 +27,10 @@
 
 * [Restricted Level Range](unsorted/core-level-range.md)
 * [Unsorted Index](unsorted/unsorted-index.md)
+* [\* The Cleric is not fine](unsorted/core-cleric.md)
 * [\* The Thief is not fine](unsorted/the-thief-is-not-fine.md)
+
+---
+
+* [BECMI Save Progressions](becmi-save-progressions.md)
 

@@ -6,11 +6,9 @@ Here is my
 
 
 
-### The Ugly Math
+###  
 
-#### The Rank anomaly
 
-When you compare the original thief to the other  
 
 
 
