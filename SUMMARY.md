@@ -8,7 +8,9 @@
 
 ## House Rules
 
-* [House rules](house-rules/house-rules-index.md)
+* [House rules](house-rules/house-rules-index/README.md)
+  * [HD overloads](house-rules/house-rules-index/hd-overloads.md)
+* [Health Mechanics](house-rules/health-mechanics.md)
 
 ## Homebrews
 
