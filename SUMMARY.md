@@ -25,14 +25,11 @@
 * [Essays](essays/untitled/README.md)
   * [The 2d6 Oracle](essays/untitled/the-2d6-oracle.md)
 
-## Appendices <a id="appendices-1"></a>
+## Unsorted
 
-* [Restricted Level Range](appendices-1/core-level-range.md)
-* [Unsorted Index](appendices-1/unsorted-index.md)
-* [\* The Cleric is not fine](appendices-1/core-cleric.md)
-* [\* The Thief is not fine](appendices-1/the-thief-is-not-fine.md)
-
----
-
-* [BECMI Save Progressions](becmi-save-progressions.md)
+* [Unsorted Index](unsorted/unsorted-index/README.md)
+  * [BECMI Save Progressions](unsorted/unsorted-index/becmi-save-progressions.md)
+  * [\* The Thief is not fine](unsorted/unsorted-index/the-thief-is-not-fine.md)
+  * [\* The Cleric is not fine](unsorted/unsorted-index/core-cleric.md)
+  * [Restricted Level Range](unsorted/unsorted-index/core-level-range.md)
 
