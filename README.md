@@ -22,7 +22,7 @@ Contents are grouped in different Categories:
 {% hint style="danger" %}
 ### Disclaimer
 
-The rules are wrote using "Classic D&D" \(Rules Cyclopedia and BECMI\) as the reference source material, they be mostly compatible with B/X or the recent OSE but I will not do any effort to keep them totally in line with the current "trends" or "standards".
+The rules are based on "Classic D&D" \(Rules Cyclopedia and BECMI\), they should be compatible with B/X or the recent OSE but I will not do any effort to keep them totally in line with the current "trends" or "standards".
 
 When the original source or inspiration can be traced to another blog or forum post I will try to give proper credit.
 {% endhint %}

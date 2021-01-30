@@ -4,30 +4,26 @@
 
 ## Core Assumptions
 
-* [Core Concepts](core-assumptions/core-concepts.md)
-
 ## House Rules
-
-* [House rules](house-rules/house-rules-index/README.md)
-  * [Attribute Scores](house-rules/house-rules-index/attribute-scores.md)
-  * [HD overloads](house-rules/house-rules-index/hd-overloads.md)
 
 ## Homebrews
 
-* [Homebrew](homebrews/untitled.md)
-
 ## Appendices
-
-* [Appendix N](appendices/appendix-n.md)
 
 ## Essays and Rants <a id="essays"></a>
 
-* [Essays](essays/untitled/README.md)
-  * [BECMI Save Progressions](essays/untitled/becmi-save-progressions.md)
-
 ## Unsorted
 
-* [Unsorted Index](unsorted/unsorted-index/README.md)
+* [Random unfinished bits.](unsorted/unsorted-index/README.md)
+  * [House rules](unsorted/unsorted-index/house-rules-index/README.md)
+    * [Implied Setting & Tone](unsorted/unsorted-index/house-rules-index/implied-setting-and-tone.md)
+    * [Core Concepts](unsorted/unsorted-index/house-rules-index/core-concepts.md)
+    * [Attribute Scores](unsorted/unsorted-index/house-rules-index/attribute-scores.md)
+    * [HD overloads](unsorted/unsorted-index/house-rules-index/hd-overloads.md)
+  * [Essays](unsorted/unsorted-index/untitled-1/README.md)
+    * [BECMI Save Progressions](unsorted/unsorted-index/untitled-1/becmi-save-progressions.md)
+  * [Appendix N](unsorted/unsorted-index/appendix-n.md)
+  * [Homebrew](unsorted/unsorted-index/untitled.md)
   * [\* The Thief is not fine](unsorted/unsorted-index/the-thief-is-not-fine.md)
   * [\* The Cleric is not fine](unsorted/unsorted-index/core-cleric.md)
   * [Restricted Level Range](unsorted/unsorted-index/core-level-range.md)
