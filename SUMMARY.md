@@ -4,7 +4,13 @@
 
 ## Core Assumptions
 
+* [Implied Setting & Tone](core-assumptions/implied-setting-and-tone/README.md)
+  * [Halfling Genocide](core-assumptions/implied-setting-and-tone/halfling-genocide.md)
+* [Level Range & Character Rank](core-assumptions/level-range-and-character-rank.md)
+
 ## House Rules
+
+* [Attributes](house-rules/attributes.md)
 
 ## Homebrews
 
@@ -16,7 +22,6 @@
 
 * [Random unfinished bits.](unsorted/unsorted-index/README.md)
   * [House rules](unsorted/unsorted-index/house-rules-index/README.md)
-    * [Implied Setting & Tone](unsorted/unsorted-index/house-rules-index/implied-setting-and-tone.md)
     * [Core Concepts](unsorted/unsorted-index/house-rules-index/core-concepts.md)
     * [Attribute Scores](unsorted/unsorted-index/house-rules-index/attribute-scores.md)
     * [HD overloads](unsorted/unsorted-index/house-rules-index/hd-overloads.md)

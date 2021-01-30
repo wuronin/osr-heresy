@@ -27,5 +27,27 @@ The rules are based on "Classic D&D" \(Rules Cyclopedia and BECMI\), they should
 When the original source or inspiration can be traced to another blog or forum post I will try to give proper credit.
 {% endhint %}
 
+## IMPORTANT NOTE REGARDING RACE, GENDER, FAITH ISSUES
+
+The concept of race and gender are bullshit.
+
+If you disagree feel free to go away. I don't care about your opinions about this topic.
+
+Every human being has the fundamental right on their own body and identity.
+
+People should be judged and valued using their actions, behaviour and achiements. Things like skin tones, sexual preferences or whatever may be useful to evaluate a potential relationship, nothing more.  
+
+Faith is something that people can feel without proof. My personal opinion is: Religion is like a penis. It's fine to have one and it's fine to be proud of it, but please don't whip it out in public and start waving it around... and PLEASE don't try to shove it down my throat.
+
+Gender is a first world problem. You are just you. You like what you like. You want to be happy as anybody else. You have no right to change how somebody else try to achieve their own fullfillment. 
+
+From a "fantasy" point of view I will refer to the BECMI "Races" as "Species" because this is what they are. BECMI is a fantasy game, all within it is FALSE by definition, "Gods" are actually immortal beings, religion are wrong/messy/superficially defined things created by a DM to make the world feel believable. Nothing more.
+
+I am homebrewing for my own player-base. In-game some species will be enemies, you can have a lot of valid reasons to hate somebody else, we don't need IRL crap in our games.
+
+There is only one exception: **Halflings**. Halflings are wrong. 
+
+
+
 
 
