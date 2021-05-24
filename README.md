@@ -29,7 +29,7 @@ When the original source or inspiration can be traced to another blog or forum p
 
 ## IMPORTANT NOTE REGARDING RACE, GENDER, FAITH ISSUES
 
-The concept of race and gender are bullshit.
+Your issues regarding races, gender or faith are your own.
 
 If you disagree feel free to go away. I don't care about your opinions about this topic.
 
